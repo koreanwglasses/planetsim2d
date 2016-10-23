@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="my-gdx-game-core/build/libs/dll"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Fred/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.4.1/df470d263438048af74860ca51fc497c16a0c76a/gdx-1.4.1.jar" sourcepath="C:/Users/Fred/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.4.1/a36f5d3e6a3b0fa3c625f8ce88216daf99435bce/gdx-1.4.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Fred/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.4.1/9e6453d244896698694a7f3059f15ae509044101/gdx-box2d-1.4.1.jar" sourcepath="C:/Users/Fred/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.4.1/fcf9d6a8c426f99e8755996fc1f96ab00a447219/gdx-box2d-1.4.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/libs/core-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/libs/jcublas-0.6.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/libs/jcuda-0.6.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/libs/jcufft-0.6.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/libs/jcurand-0.6.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/libs/jcusparse-0.6.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/my-gdx-game-desktop/gdx-freetype-natives.jar"/>
+	<classpathentry exported="true" kind="lib" path="/my-gdx-game-desktop/gdx-freetype.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
